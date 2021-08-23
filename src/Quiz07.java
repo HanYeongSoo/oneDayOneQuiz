@@ -12,11 +12,11 @@ public class Quiz07 {
 		while(true) {
 			if (num % 2 != 0 && num % 3 != 0) {
 				System.out.println(num + "은 소수입니다.");
-				break;
+				break; 
 			}
 			else {
 				System.out.println(num + "은 소수가 아닙니다.");
-				break;
+				break; 
 			}
 		} 
 	}
