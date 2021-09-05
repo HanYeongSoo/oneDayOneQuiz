@@ -3,6 +3,10 @@ public class Quiz22 {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * 		팰린드롬 출력하기
+		 */
+		
 		String s = "12321";
 		boolean bool = true;
 		
